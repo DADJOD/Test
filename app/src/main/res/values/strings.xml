@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="spin">spin</string>
+    <string name="start">Start</string>
+    <string name="scoreButton">Score</string>
+    <string name="scoreResult">Score</string>
+</resources>
